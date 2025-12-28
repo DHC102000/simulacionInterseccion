@@ -6,7 +6,8 @@ a return False, sin embargo los semáforos presentan mejor eficiencia cuando hay
 
 Este modelo está basado en problemas reales donde las intersecciones generan congestionamiento durante horas pico.
 
-Cómo correr:
+Cómo correr
+```bash
 git clone https://github.com/DHC102000/simulacionInterseccion.git
 cd simulacionInterseccion
 pip install -r requirements.txt
